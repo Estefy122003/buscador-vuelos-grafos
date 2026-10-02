@@ -1,0 +1,37 @@
+# origen,destino,precio_usd,duracion_min,aerolinea
+UIO,GYE,58,55,AeroAndes
+GYE,UIO,61,55,AeroAndes
+UIO,CUE,49,50,AeroAndes
+CUE,UIO,52,50,AeroAndes
+GYE,CUE,39,40,SkyEcuador
+CUE,GYE,41,40,SkyEcuador
+UIO,GPS,189,200,SkyEcuador
+GPS,UIO,195,200,SkyEcuador
+GYE,GPS,159,110,SkyEcuador
+GPS,GYE,162,110,SkyEcuador
+UIO,BOG,142,95,CondorAir
+BOG,UIO,139,95,CondorAir
+GYE,BOG,155,115,CondorAir
+BOG,GYE,150,115,CondorAir
+UIO,LIM,171,120,CondorAir
+LIM,UIO,168,120,CondorAir
+GYE,LIM,119,105,PacificJet
+LIM,GYE,124,105,PacificJet
+BOG,LIM,128,190,PacificJet
+LIM,BOG,131,190,PacificJet
+BOG,MIA,210,205,PacificJet
+MIA,BOG,205,205,PacificJet
+UIO,MIA,268,225,AeroAndes
+MIA,UIO,261,225,AeroAndes
+LIM,MIA,245,330,PacificJet
+MIA,LIM,239,330,PacificJet
+BOG,MAD,455,610,Iberia Sur
+MAD,BOG,462,610,Iberia Sur
+MIA,MAD,398,500,Iberia Sur
+MAD,MIA,405,500,Iberia Sur
+UIO,MAD,540,640,Iberia Sur
+MAD,UIO,552,640,Iberia Sur
+LIM,MAD,498,750,Iberia Sur
+MAD,LIM,505,750,Iberia Sur
+ 
+ 
